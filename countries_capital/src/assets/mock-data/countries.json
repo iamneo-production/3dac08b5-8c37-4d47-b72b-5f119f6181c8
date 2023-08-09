@@ -1,0 +1,26 @@
+{
+    "countries":
+    [
+        {
+            "id":"id101",
+            "country":"India",
+            "capital":"Delhi"
+        },
+        {
+            "id":"id102",
+            "country":"U.S.A",
+            "capital":"Washigton DC"
+        },
+        {
+            "id":"id103",
+            "country":"Australia",
+            "capital":"Canberra"
+        },
+        {
+            "id":"id104",
+            "country":"Canada",
+            "capital":"Ottawa"
+        }
+    ]
+
+}
